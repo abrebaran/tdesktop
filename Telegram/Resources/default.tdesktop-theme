@@ -21,28 +21,28 @@
 // |-background.jpg (or tiled.jpg, background.png, tiled.png)
 //
 
-windowBg: #ffffff;
-windowFg: #000000;
+windowBg: #2c2029;
+windowFg: #2c2029;
 windowBgOver: #f1f1f1;
 windowBgRipple: #e5e5e5;
 windowFgOver: windowFg;
-windowSubTextFg: #999999;
-windowSubTextFgOver: #919191;
-windowBoldFg: #222222;
-windowBoldFgOver: #222222;
-windowBgActive: #40a7e3;
-windowFgActive: #ffffff;
-windowActiveTextFg: #168acd;
-windowShadowFg: #000000;
+windowSubTextFg: #2c2029;
+windowSubTextFgOver: #2c2029;
+windowBoldFg: #2c2029;
+windowBoldFgOver: #2c2029;
+windowBgActive: #2c2029;
+windowFgActive: #2c2029;
+windowActiveTextFg: #2c2029;
+windowShadowFg: #2c2029;
 windowShadowFgFallback: #f1f1f1;
 shadowFg: #00000018;
 slideFadeOutBg: #0000003c;
 slideFadeOutShadowFg: windowShadowFg;
 imageBg: #000000;
-imageBgTransparent: #ffffff;
+imageBgTransparent: #2c2029;
 activeButtonBg: windowBgActive;
-activeButtonBgOver: #39a5db;
-activeButtonBgRipple: #2095d0;
+activeButtonBgOver: #2c2029;
+activeButtonBgRipple: #2c2029;
 activeButtonFg: windowFgActive;
 activeButtonFgOver: activeButtonFg;
 activeButtonSecondaryFg: #cceeff;
